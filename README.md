@@ -36,7 +36,7 @@ A classification report is generated for TWO algorithms
 
 The list of features is sorted in descending order by feature importance
 
-Deliverable 4: Analysis
+### Deliverable 4: Analysis
 
 The purpose is well defined
 
