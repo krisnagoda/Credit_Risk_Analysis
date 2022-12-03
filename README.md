@@ -16,6 +16,18 @@ Summarize the results of the machine learning models, and include a recommendati
 
 ### Deliverable 1: Use Resampling Models to Predict Loan Risk
 
+Naive Random Oversampling
+
+![Naive Random Oversampling Image](https://github.com/krisnagoda/Credit_Risk_Analysis/blob/cd583f367d1bc3e633b8039fb2994a197dbdb8b0/Naive_Random_Oversampling.png)
+
+SMOTE Oversampling
+
+![SMOTE Oversampling Image](https://github.com/krisnagoda/Credit_Risk_Analysis/blob/cd583f367d1bc3e633b8039fb2994a197dbdb8b0/SMOTE_Oversampling.png)
+
+Cluster Centroids Undersampling
+
+![Cluster Centroids Undersampling Image](https://github.com/krisnagoda/Credit_Risk_Analysis/blob/cd583f367d1bc3e633b8039fb2994a197dbdb8b0/Cluster_Centroids_Undersampling.png)
+
  - There is an accuracy score and confusion matrix for ALL THREE algorithms
 
  - A classification report is generated for ALL THREE algorithms
