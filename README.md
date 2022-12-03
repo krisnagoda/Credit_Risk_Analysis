@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explain the purpose of this analysis.
+Understanding credit risk is vital for lenders. As lending demand continue to grow, so will lender expectations in risk prediction. This technical analysis is focused on evaluating several machine learning models to predict credit risk. 
 
 ## Results
 
