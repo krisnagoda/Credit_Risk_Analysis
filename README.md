@@ -34,6 +34,8 @@ Cluster Centroids Undersampling
 
 ### Deliverable 2: Use the SMOTEENN Algorithm to Predict Loan Risk
 
+![SMOTEENN Combo Sampling Image] (https://github.com/krisnagoda/Credit_Risk_Analysis/blob/4069d1cc75f4ef240be56cc663c7cad94da969de/SMOTEENN_Combo_Sample.png)
+
  - There is an accuracy score for the SMOTEENN algorithm
 
  - There is a confusion matrix for the SMOTEENN algorithm
@@ -41,6 +43,14 @@ Cluster Centroids Undersampling
  - A classification report is generated for the SMOTEENN algorithm
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Loan Risk
+
+Balanced Random Forest Classifier
+
+![Balanced Random Forest Classifier Image](https://github.com/krisnagoda/Credit_Risk_Analysis/blob/4069d1cc75f4ef240be56cc663c7cad94da969de/Balanced_Random_Forest_Classifier.png)
+
+Easy Ensemble AdaBoost Classifier
+
+![Easy Ensemble AdaBoost Classifier](https://github.com/krisnagoda/Credit_Risk_Analysis/blob/4069d1cc75f4ef240be56cc663c7cad94da969de/Easy_Ensemble_AdaBoost_Classifier.png)
 
  - There is an accuracy score and confusion matrix for TWO algorithms
 
