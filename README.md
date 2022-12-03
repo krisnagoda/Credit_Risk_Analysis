@@ -34,7 +34,7 @@ Cluster Centroids Undersampling
 
 ### Deliverable 2: Use the SMOTEENN Algorithm to Predict Loan Risk
 
-![SMOTEENN Combo Sampling Image] (https://github.com/krisnagoda/Credit_Risk_Analysis/blob/4069d1cc75f4ef240be56cc663c7cad94da969de/SMOTEENN_Combo_Sample.png)
+![SMOTEENN_Combo_Sampling_Image](https://github.com/krisnagoda/Credit_Risk_Analysis/blob/4069d1cc75f4ef240be56cc663c7cad94da969de/SMOTEENN_Combo_Sample.png)
 
  - There is an accuracy score for the SMOTEENN algorithm
 
