@@ -6,7 +6,31 @@ Understanding credit risk is vital for lenders. As lending demand continue to gr
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+The balanced accuracy, precision, and recall scores for all six algorithms:
+
+### Balanced Accuracy
+ 1. **Easy Ensemble AdaBoost Classifier 93%**
+ 2. Balanced Random Forest Classifier 79%
+ 3. Naive Random Algorithm 65%
+ 4. SMOTE Algorithm 62%
+ 5. SMOTEENN Algorithm 62%
+ 6. ClusterCentroids Algorithm 51%
+
+### Precision
+ 1. **Easy Ensemble AdaBoost Classifier - High Risk 0.07, Low Risk 1.00, avg/total 0.99**
+ 2. Balanced Random Forest Classifier - High Risk 0.04, Low Risk 1.00, avg/total 0.99
+ 3. Naive Random Algorithm - High Risk 0.01, Low Risk 1.00, avg/total 0.99
+ 4. SMOTE Algorithm - High Risk 0.01, Low Risk 1.00, avg/total 0.99
+ 5. SMOTEENN Algorithm - High Risk 0.01, Low Risk 1.00, avg/total 0.99
+ 6. ClusterCentroids Algorithm - High Risk 0.01, Low Risk 1.00, avg/total 0.99
+
+### Recall
+ 1.  **Easy Ensemble AdaBoost Classifier - High Risk 0.91, Low Risk 0.94, avg/total 0.94**
+ 2.  Balanced Random Forest Classifier - High Risk 0.67, Low Risk 0.91, avg/total 0.91
+ 3.  Naive Random Algorithm - High Risk 0.62, Low Risk 0.68, avg/total 0.68
+ 4.  SMOTE Algorithm - High Risk 0.59, Low Risk 0.66, avg/total 0.66
+ 5.  SMOTEENN Algorithm - High Risk 0.71, Low Risk 0.53, avg/total 0.53
+ 6.  ClusterCentroids Algorithm - High Risk 0.59, Low Risk 0.43, avg/total 0.44
 
 ## Summary
 
