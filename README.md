@@ -34,7 +34,7 @@ The balanced accuracy, precision, and recall scores for all six algorithms:
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+The Easy Ensemble AdaBoost Classifier out preformed each of the other 5 algorithms in accuracy, precision, and recall scores. If we need to ship something today, I’d use Easy Ensemble AdaBoost Classifier. Otherwise, I’d continue building and evaluating with an eye on improvement to High Risk Precision.
 
 ## Module 17 Challenge
 
