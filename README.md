@@ -17,20 +17,20 @@ The balanced accuracy, precision, and recall scores for all six algorithms:
  6. ClusterCentroids Algorithm 51%
 
 ### Precision
- 1. **Easy Ensemble AdaBoost Classifier - High Risk 0.07, Low Risk 1.00, avg/total 0.99**
- 2. Balanced Random Forest Classifier - High Risk 0.04, Low Risk 1.00, avg/total 0.99
- 3. Naive Random Algorithm - High Risk 0.01, Low Risk 1.00, avg/total 0.99
- 4. SMOTE Algorithm - High Risk 0.01, Low Risk 1.00, avg/total 0.99
- 5. SMOTEENN Algorithm - High Risk 0.01, Low Risk 1.00, avg/total 0.99
- 6. ClusterCentroids Algorithm - High Risk 0.01, Low Risk 1.00, avg/total 0.99
+ 1. **Easy Ensemble AdaBoost Classifier - High Risk 7%, Low Risk 100%**
+ 2. Balanced Random Forest Classifier - High Risk 4%, Low Risk 100%
+ 3. Naive Random Algorithm - High Risk 1%, Low Risk 100%
+ 4. SMOTE Algorithm - High Risk 1%, Low Risk 100%
+ 5. SMOTEENN Algorithm - High Risk 1%, Low Risk 100%
+ 6. ClusterCentroids Algorithm - High Risk 1%, Low Risk 100%
 
 ### Recall
- 1.  **Easy Ensemble AdaBoost Classifier - High Risk 0.91, Low Risk 0.94, avg/total 0.94**
- 2.  Balanced Random Forest Classifier - High Risk 0.67, Low Risk 0.91, avg/total 0.91
- 3.  Naive Random Algorithm - High Risk 0.62, Low Risk 0.68, avg/total 0.68
- 4.  SMOTE Algorithm - High Risk 0.59, Low Risk 0.66, avg/total 0.66
- 5.  SMOTEENN Algorithm - High Risk 0.71, Low Risk 0.53, avg/total 0.53
- 6.  ClusterCentroids Algorithm - High Risk 0.59, Low Risk 0.43, avg/total 0.44
+ 1.  **Easy Ensemble AdaBoost Classifier - High Risk 91%, Low Risk 94%**
+ 2.  Balanced Random Forest Classifier - High Risk 67%, Low Risk 91%
+ 3.  Naive Random Algorithm - High Risk 62%, Low Risk 68%
+ 4.  SMOTE Algorithm - High Risk 59%, Low Risk 66%
+ 5.  SMOTEENN Algorithm - High Risk 71%, Low Risk 53%
+ 6.  ClusterCentroids Algorithm - High Risk 59%, Low Risk 43%
 
 ## Summary
 
